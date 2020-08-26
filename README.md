@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+A littel about me:
 
 - 🔭 I’m currently working on TesMusk and Della's smart glasses.
 - 📙 I’m currently learning Django, Devops and Rust.
