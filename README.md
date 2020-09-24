@@ -109,20 +109,22 @@
 
 ## GitHub Stats
 <br>
-
-<a href="https://github.com/youngermaster">
-  <img align="center" alt="Youngermaster's github language stats "
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngermaster&langs_count=10" />
-</a>
+<p align="left">
+  
 <a href="https://github.com/youngermaster">
   <img align="center"
     src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=youngermaster&show_icons=true&line_height=27"
     alt="Youngermaster's github stats" />
 </a>
-
-<img align="center" src="images/Languages.png" alt="Juan Manuel Young's Languages">
-
 <br>
+<a href="https://github.com/youngermaster">
+  <img align="center" alt="Youngermaster's github language stats "
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngermaster&langs_count=10" />
+</a>
+  
+  <img align="center" src="images/Languages.png" alt="Juan Manuel Young's Languages">
+</p>
+
 <br>
 
 ### A little about me:
