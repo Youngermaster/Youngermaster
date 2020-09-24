@@ -1,91 +1,135 @@
-### Hi there 👋
+<p align="center">
+  <img width="100px" src="images/circle-cropped-profile.png" />
+<h2 align="center">Juan Manuel Young Hoyos</h2>
+<p align="center">A Problem Solver</p>
 
+<p align="center"> <img
+    src="https://komarev.com/ghpvc/?username=youngermaster&label=Profile Views&color=blue&style=plastic"
+    alt="youngermaster" /> </p>
+</p>
+
+<hr />
+<h3 align="center">Main Technologies</h3>
+
+<p align="center">Main Languages</p>
+<p align="center">
+  <a
+    href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
+    <img alt="Cpp" width="30px" alt="Cpp" src="images/cpp.png" />
+  </a>
+  <a
+    href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
+    <img alt="Dart" width="30px" alt="Dart" src="images/dart.png" />
+  </a>
+  <a
+    href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+    <img alt="python" width="30px" alt="python" src="images/python.png" />
+  </a>
+  <a
+    href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+    <img alt="javascript" width="30px" alt="javascript" src="images/javascript.png" />
+  </a>
+</p>
+
+<p align="center">Main Technologies</p>
+<p align="center">
+  <a
+    href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
+    <img alt="postgresql" width="30px" alt="postgresql" src="images/postgresql.png" />
+  </a>
+  <a
+    href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
+    <img alt="flutter" width="30px" alt="flutter" src="images/flutter.png" />
+  </a>
+  <a
+    href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
+    <img alt="django" width="30px" alt="django" src="images/django.png" />
+  </a>
+  <a
+    href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+    <img alt="react" width="30px" alt="react" src="images/react.png" />
+  </a>
+  <a
+    href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+    <img alt="git" width="30px" alt="git" src="images/git.png" />
+  </a>
+  <a
+    href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png">
+    <img alt="github" width="30px" alt="github" src="images/github.png" />
+  </a>
+  <a
+    href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
+    <img alt="docker" width="30px" alt="docker" src="images/docker.png" />
+  </a>
+  <a
+    href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+    <img alt="mysql" width="30px" alt="mysql" src="images/mysql.png" />
+  </a>
+</p>
+
+<p align="center">Main OS</p>
+<p align="center">
+  <a
+    href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png">
+    <img alt="ubuntu" width="30px" alt="ubuntu" src="images/ubuntu.png" />
+  </a>
+</p>
+
+<p align="center">Connect with me</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/juan-manuel-young-hoyos-701653157/">
+    <img
+      src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/juan-manuel-young-hoyos-701653157/" />
+  </a>
+  <a href="https://www.instagram.com/jmyounghoyos/">
+    <img
+      src="https://img.shields.io/badge/-jmyounghoyos-magenta?style=flat-square&logo=Instagram&logoColor=white&linkhttps://www.Instagram.com/in/juan-manuel-young-hoyos-701653157/" />
+  </a>
+  <a href="https://twitter.com/jmyounghoyos">
+    <img
+      src="https://img.shields.io/badge/-jmyounghoyos-blue?style=flat-square&logo=Twitter&logoColor=white&linkhttps://www.Twitter.com/in/juan-manuel-young-hoyos-701653157/" />
+  </a>
+  <a href="https://discordhub.com/profile/412340197640896513">
+    <img
+      src="https://img.shields.io/badge/-Youngermaster7943-gray?style=flat-square&logo=Discord&logoColor=white&linkhttps://discordhub.com/profile/412340197640896513" />
+  </a>
+  <a href="mailto:juanmanuel12.13jmyh81@gmail.com">
+    <img
+      src="https://img.shields.io/badge/-juanmanuel12.13jmyh81@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juanmanuel12.13jmyh81@gmail.com" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCyuYHymUH4Adj2YytTdtD4g/videos">
+    <img
+      src="https://img.shields.io/badge/-Youtube-c14438?style=flat-square&logo=Youtube&logoColor=white&link=mailto:juanmanuel12.13jmyh81@Youtube.com" />
+  </a>
+  <a href="https://gist.github.com/Youngermaster/d062cf824d5007105aa2ea32d6e988e2">
+    <img
+      src="https://img.shields.io/badge/-VS Code Settings-blue?style=flat-square&logo=Visual Studio code&logoColor=white&https://gist.github.com/Youngermaster/d062cf824d5007105aa2ea32d6e988e2" />
+  </a>
+</p>
+
+## GitHub Stats
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youngermaster&label=Views&color=blue&style=plastic" alt="youngermaster" /> </p>
-
-
-A little about me:
-
-- 🔭 I’m currently working on TesMusk and Della's smart glasses.
-- 📙 I’m currently learning Django, Devops and Rust.
-- 🔍 I’m looking to collaborate on amazing projetcs to solve real problems. 
-- 💬 Ask me about Flutter or any tech related stuff.  
-- 😄 Pronouns: he/him/his, although, just tell me Juan.
-- ⚡ Fun fact: I don't like to sleep.
-
-### Connect with me:
-
-<a href="https://www.linkedin.com/in/juan-manuel-young-hoyos-701653157">
-  <img align="left" alt="Youngermaster's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://github.com/youngermaster">
+  <img align="center" alt="Youngermaster's github language stats "
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngermaster&langs_count=10" />
+</a>
+<a href="https://github.com/youngermaster">
+  <img align="center"
+    src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=youngermaster&show_icons=true&line_height=27"
+    alt="Youngermaster's github stats" />
 </a>
 
-<a href="https://instagram.com/jmyounghoyos">
-  <img align="left" alt="Youngermaster's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+<img align="center" src="images/Languages.png" alt="Juan Manuel Young's Languages">
 
-<a href="https://twitter.com/jmyounghoyos">
-  <img align="left" alt="Youngermaster's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+<br>
+<br>
 
-<a href="https://discordhub.com/profile/412340197640896513">
-  <img align="left" alt="Youngermaster's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
+### A little about me:
 
-<a href="https://github.com/Youngermaster">
-  <img align="left" alt="Youngermaster's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
-<a href="mailto:juanmanuel12.13jmyh81@gmail.com">
-  <img align="left" alt="Youngermaster's email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-<a href="https://www.youtube.com/channel/UCyuYHymUH4Adj2YytTdtD4g">
-  <img align="left" alt="Juan Manuel Young Hoyos's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-
-<br/>
-<br/>
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/flutter/flutter.png" />
-
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-
-<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-
-<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-
-<img align="left" alt="Postgres" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
-
-<br />
-<br />
-
-### Stats
-
-<a href="https://github.com/Youngermaster">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=youngermaster&show_icons=true&theme=light&line_height=27" alt="Youngermaster's github stats"/>
-</a>
-
-<a href="https://github.com/Youngermaster">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngermaster&theme=light&hide_langs_below=1" />
-</a>
+* ⚡ I’m currently working on **TesMusk** and **Della**'s smart glasses.
+* 📙 I’m currently learning **Django**, **CI/CD** and **React.js**.
+* 🔍 I’m looking to collaborate on amazing projetcs to **solve real problems**.
+* 💬 Ask me about **Flutter** or any tech related stuff.
+* 👱🏼‍♂️ Pronouns: **he/him/his**, although, just tell me **Juan**.
+* 😄 Fun fact: **I don't like to sleep**.
