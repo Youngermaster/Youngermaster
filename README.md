@@ -91,7 +91,7 @@
   </a>
   <a href="https://discordhub.com/profile/412340197640896513">
     <img
-      src="https://img.shields.io/badge/-Youngermaster7943-gray?style=flat-square&logo=Discord&logoColor=white&linkhttps://discordhub.com/profile/412340197640896513" />
+      src="https://img.shields.io/badge/-Youngermaster7943-gray?style=flat-squarelabel=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2linkhttps://discordhub.com/profile/412340197640896513" />
   </a>
   <a href="mailto:juanmanuel12.13jmyh81@gmail.com">
     <img
@@ -103,7 +103,7 @@
   </a>
   <a href="https://gist.github.com/Youngermaster/d062cf824d5007105aa2ea32d6e988e2">
     <img
-      src="https://img.shields.io/badge/-VS Code Settings-blue?style=flat-square&logo=Visual Studio code&logoColor=white&https://gist.github.com/Youngermaster/d062cf824d5007105aa2ea32d6e988e2" />
+      src="https://img.shields.io/badge/-VSCodeSettings-blue?style=flat-square&logo=VisualStudioCode&logoColor=white&https://gist.github.com/Youngermaster/d062cf824d5007105aa2ea32d6e988e2" />
   </a>
 </p>
 
