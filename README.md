@@ -1,7 +1,8 @@
 <p align="center">
   <img width="100px" src="images/circle-cropped-profile.png" />
 <h2 align="center">Juan Manuel Young Hoyos</h2>
-<p align="center">A Problem Solver</p>
+<h3 align="center">A Problem Solver</h3>
+<p align="center">Software Developer</p>
 
 <p align="center"> <img
     src="https://komarev.com/ghpvc/?username=youngermaster&label=Profile Views&color=blue&style=plastic"
@@ -9,7 +10,7 @@
 </p>
 
 <hr />
-<h3 align="center">Main Technologies</h3>
+<h3 align="center">Technical skills</h3>
 
 <p align="center">Main Languages</p>
 <p align="center">
@@ -75,7 +76,7 @@
   </a>
 </p>
 
-<p align="center">Connect with me</p>
+<h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/juan-manuel-young-hoyos-701653157/">
     <img
