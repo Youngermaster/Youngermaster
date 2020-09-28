@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100px" src="images/circle-cropped-profile.png" />
+  <img width="250px" src="images/circle-cropped-profile.png" />
 <h2 align="center">Juan Manuel Young Hoyos</h2>
 <h3 align="center">A Problem Solver</h3>
 <p align="center">Software Developer</p>
@@ -19,32 +19,36 @@
     <img alt="Cpp" width="30px" alt="Cpp" src="images/cpp.png" />
   </a>
   <a
-    href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
-    <img alt="Dart" width="30px" alt="Dart" src="images/dart.png" />
+    href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+    <img alt="javascript" width="30px" alt="javascript" src="images/javascript.png" />
   </a>
   <a
     href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
     <img alt="python" width="30px" alt="python" src="images/python.png" />
   </a>
   <a
-    href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-    <img alt="javascript" width="30px" alt="javascript" src="images/javascript.png" />
+    href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
+    <img alt="Dart" width="30px" alt="Dart" src="images/dart.png" />
+  </a>
+  <a
+    href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">
+    <img alt="go" width="30px" alt="go" src="images/go.png" />
   </a>
 </p>
 
 <p align="center">Main Technologies</p>
 <p align="center">
   <a
-    href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
-    <img alt="postgresql" width="30px" alt="postgresql" src="images/postgresql.png" />
-  </a>
-  <a
-    href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
-    <img alt="flutter" width="30px" alt="flutter" src="images/flutter.png" />
+    href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
+    <img alt="vue" width="30px" alt="vue" src="images/vue.png" />
   </a>
   <a
     href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
     <img alt="django" width="30px" alt="django" src="images/django.png" />
+  </a>
+  <a
+    href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
+    <img alt="flutter" width="30px" alt="flutter" src="images/flutter.png" />
   </a>
   <a
     href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
@@ -61,6 +65,10 @@
   <a
     href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
     <img alt="docker" width="30px" alt="docker" src="images/docker.png" />
+  </a>
+  <a
+    href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
+    <img alt="postgresql" width="30px" alt="postgresql" src="images/postgresql.png" />
   </a>
   <a
     href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
@@ -130,9 +138,8 @@
 
 ### A little about me:
 
-* ⚡ I’m currently working on **TesMusk** and **Della**'s smart glasses.
-* 📙 I’m currently learning **Django**, **CI/CD** and **React.js**.
+* ⚡ I’m currently working on **TesMusk**, **Variamos** and **Della**'s smart glasses.
+* 📙 I’m currently learning **Django**, **CI/CD** and **Vue.js**.
 * 🔍 I’m looking to collaborate on amazing projetcs to **solve real problems**.
-* 💬 Ask me about **Flutter** or any tech related stuff.
 * 👱🏼‍♂️ Pronouns: **he/him/his**, although, just tell me **Juan**.
 * 😄 Fun fact: **I don't like to sleep**.
