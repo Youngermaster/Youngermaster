@@ -179,13 +179,24 @@
 </p>
 
 <br>
+<hr>
 
 <h2 align="center">A little about me:</h2>
 
 <p align="center">
-  <li>⚡ I’m currently working on <strong>TesMusk</strong>, <strong>Variamos</strong> and <strong>Della</strong>'s smart glasses.</li>
-  <li>📙 I’m currently learning <strong>Django</strong>, <strong>CI/CD</strong> and <strong>Vue.js</strong>.</li>
-  <li>🔍 I’m looking to collaborate on amazing projetcs to <strong>solve real problems</strong>.</li>
-  <li>👱🏼‍♂️ Pronouns: <strong>he/him/his</strong>, although, just tell me <strong>Juan</strong>.</li>
-  <li>😄 Fun fact: <strong>I don't like to sleep</strong>.</li>
+  <li align="center">⚡ I’m currently working on <strong>TesMusk</strong>, <strong>Variamos</strong> and <strong>Della</strong>'s smart glasses.</li>
+  <li align="center">📙 I’m currently learning <strong>Django</strong>, <strong>CI/CD</strong> and <strong>Vue.js</strong>.</li>
+  <li align="center">🔍 I’m looking to collaborate on amazing projetcs to <strong>solve real problems</strong>.</li>
+  <li align="center">👱🏼‍♂️ Pronouns: <strong>he/him/his</strong>, although, just tell me <strong>Juan</strong>.</li>
+  <li align="center">😄 Fun fact: <strong>I don't like to sleep</strong>.</li>
+</p>
+<hr>
+
+<h2 align="center">See ya'</h2>
+
+<p align="center">
+  <a
+    href="/">
+    <img alt="raspberry" alt="raspberry" src="images/NotHotDog.gif" />
+  </a>
 </p>
