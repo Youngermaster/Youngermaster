@@ -192,7 +192,7 @@
 </p>
 <hr>
 
-<h2 align="center">See ya'</h2>
+<h2 align="center">👋🏻 See ya'</h2>
 
 <p align="center">
   <a
