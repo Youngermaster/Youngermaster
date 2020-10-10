@@ -92,6 +92,14 @@
 <p align="center">🧠 Learning</p>
 <p align="center">
   <a
+    href="https://github.com/Youngermaster?tab=repositories&q=&type=&language=shell">
+    <img alt="bash" width="30px" alt="bash" src="images/bash.png" />
+  </a>
+  <a
+    href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png">
+    <img alt="vim" width="30px" alt="vim" src="images/vim.png" />
+  </a>
+  <a
     href="https://github.com/Youngermaster?tab=repositories&q=&type=&language=javascript">
     <img alt="react" width="30px" alt="react" src="images/react.png" />
   </a>
