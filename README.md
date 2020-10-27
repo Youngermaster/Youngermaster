@@ -12,7 +12,6 @@
 <hr />
 <h2 align="center">Technical skills</h2>
 
-<hr>
 <h3 align="center">Main Languages</h3>
 <p align="center">⚡ Knowed</p>
 <p align="center">
@@ -139,7 +138,7 @@
 <h2 align="center">✉️️ Connect with me</h2>
 <br/>
 <p align="center">
-  <a href="https://www.linkedin.com/in/juan-manuel-young-hoyos-701653157/">
+  <a href="https://www.linkedin.com/in/juan-manuel-young-hoyos/">
     <img
       src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/juan-manuel-young-hoyos-701653157/" />
   </a>
