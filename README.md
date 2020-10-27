@@ -50,8 +50,6 @@
   </a>
 </p>
 
-<hr/>
-
 <h3 align="center">⚡ Main Technologies</h3>
 <p align="center">
   <a
@@ -116,7 +114,6 @@
   </a>
 </p>
 
-<hr>
 <h3 align="center">⚡ Main OS</h3>
 <p align="center">
   <a
@@ -132,8 +129,6 @@
     <img alt="raspberry" width="30px" alt="raspberry" src="images/raspberry.png" />
   </a>
 </p>
-
-<hr>
 
 <h2 align="center">✉️️ Connect with me</h2>
 <br/>
@@ -168,7 +163,6 @@
   </a>
 </p>
 
-<hr/>
 <h2 align="center">📊 Stats</h2>
 <br>
 <p align="center">
@@ -186,8 +180,6 @@
 </p>
 
 <br>
-<hr>
-
 <h2 align="center">A little about me:</h2>
 
 <p align="center">
@@ -197,7 +189,6 @@
   <li align="center">👱🏼‍♂️ Pronouns: <strong>he/him/his</strong>, although, just tell me <strong>Juan</strong>.</li>
   <li align="center">😄 Fun fact: <strong>I don't like to sleep</strong>.</li>
 </p>
-<hr>
 
 <h2 align="center">👋🏻 See ya'</h2>
 
