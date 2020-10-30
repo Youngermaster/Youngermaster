@@ -45,6 +45,10 @@
     <img alt="go" width="30px" alt="go" src="images/go.png" />
   </a>
   <a
+    href="https://github.com/Youngermaster?tab=repositories&q=&type=&language=c%23">
+    <img alt="cSharp" width="30px" alt="cSharp" src="images/cSharp.png" />
+  </a>
+  <a
     href="https://github.com/Youngermaster?tab=repositories&q=&type=&language=rust">
     <img alt="rust" width="30px" alt="rust" src="images/rust.png" />
   </a>
@@ -73,7 +77,7 @@
     <img alt="docker" width="30px" alt="docker" src="images/docker.png" />
   </a>
   <a
-    href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+    href="https://github.com/Youngermaster?tab=repositories">
     <img alt="git" width="30px" alt="git" src="images/git.png" />
   </a>
   <a
@@ -103,6 +107,10 @@
   <a
     href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
     <img alt="postgresql" width="30px" alt="postgresql" src="images/postgresql.png" />
+  </a>
+  <a
+    href="https://github.com/Youngermaster?tab=repositories&q=&type=&language=c%23">
+    <img alt="netCore" width="30px" alt="netCore" src="images/netCore.png" />
   </a>
   <a
     href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png">
