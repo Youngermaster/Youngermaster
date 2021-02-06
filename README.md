@@ -5,7 +5,7 @@
 <p align="center">Software Developer</p>
 
 <p align="center"> <img
-    src="https://komarev.com/ghpvc/?username=youngermaster&label=Profile Views&color=blue&style=plastic"
+    src="https://komarev.com/ghpvc/?username=youngermaster&label=Views of my profile&color=blue&style=plastic"
     alt="youngermaster" /> </p>
 </p>
 
@@ -23,6 +23,7 @@
     href="https://github.com/Youngermaster?tab=repositories&q=&type=&language=javascript">
     <img alt="javascript" width="30px" alt="javascript" src="images/javascript.png" />
   </a>
+  <br>
   <a
     href="https://github.com/Youngermaster?tab=repositories&q=&type=&language=python">
     <img alt="python" width="30px" alt="python" src="images/python.png" />
@@ -177,6 +178,12 @@
   <a href="https://github.com/youngermaster">
     <img align="center"
       src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=youngermaster&show_icons=true&line_height=27"
+      alt="Youngermaster's github stats" />
+  </a>
+  
+  <a href="https://github.com/youngermaster">
+    <img align="center"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=youngermaster"
       alt="Youngermaster's github stats" />
   </a>
   <br>
