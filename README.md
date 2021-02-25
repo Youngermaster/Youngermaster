@@ -198,9 +198,8 @@
       src="https://img.shields.io/badge/-Youtube-c14438?style=flat-square&logo=Youtube&logoColor=white&link=mailto:juanmanuel12.13jmyh81@Youtube.com" />
   </a>
   <a href="https://gist.github.com/Youngermaster/d062cf824d5007105aa2ea32d6e988e2">
-    <img <strong>TesMusk</strong>,
-    <src="https:
-      //img.shields.io/badge/-VSCodeSettings-blue?style=flat-square&logo=VisualStudioCode&logoColor=white&https://gist.github.com/Youngermaster/d062cf824d5007105aa2ea32d6e988e2" />
+    <img
+      src="https://img.shields.io/badge/-VSCodeSettings-blue?style=flat-square&logo=VisualStudioCode&logoColor=white&https://gist.github.com/Youngermaster/d062cf824d5007105aa2ea32d6e988e2" />
   </a>
 </p>
 
