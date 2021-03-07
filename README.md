@@ -2,7 +2,6 @@
   <img width="250px" src="images/circle-cropped-profile.png" />
 <h1 align="center">Juan Manuel Young Hoyos</h1>
 <h2 align="center">A Problem Solver</h2>
-
 <p align="center"> <img
     src="https://komarev.com/ghpvc/?username=youngermaster&label=Profile views&color=blue&style=plastic"
     alt="youngermaster" /> </p>
@@ -10,7 +9,6 @@
 
 <hr />
 
-<br>
 <h2 align="center">A little about me:</h2>
 
 <p align="center">
@@ -66,6 +64,9 @@
         </a>
         <a href="https://github.com/Youngermaster?tab=repositories&q=&type=&language=c%23">
           <img alt="cSharp" width="30px" alt="cSharp" src="images/cSharp.png" />
+        </a>
+        <a href="https://github.com/Youngermaster?tab=repositories&q=&type=&language=shell">
+          <img alt="bash" width="30px" alt="bash" src="images/bash.png" />
         </a>
         <a href="https://github.com/Youngermaster?tab=repositories&q=&type=&language=tex">
           <img alt="latex" width="30px" alt="latex" src="images/latex.png" />
@@ -143,9 +144,7 @@
 
 <p align="center">🧠 Learning</p>
 <p align="center">
-  <a href="https://github.com/Youngermaster?tab=repositories&q=&type=&language=shell">
-    <img alt="bash" width="30px" alt="bash" src="images/bash.png" />
-  </a>
+
   <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png">
     <img alt="vim" width="30px" alt="vim" src="images/vim.png" />
   </a>
@@ -213,7 +212,7 @@
   </a>
 </p>
 
-<h2 align="center">📊 Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 <br>
 <p align="center">
   <a href="https://github.com/youngermaster">
