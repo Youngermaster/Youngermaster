@@ -2,7 +2,6 @@
   <img width="250px" src="images/circle-cropped-profile.png" />
 <h1 align="center">Juan Manuel Young Hoyos</h1>
 <h2 align="center">A Problem Solver</h2>
-<p align="center">Software Developer</p>
 
 <p align="center"> <img
     src="https://komarev.com/ghpvc/?username=youngermaster&label=Profile views&color=blue&style=plastic"
@@ -10,6 +9,23 @@
 </p>
 
 <hr />
+
+<br>
+<h2 align="center">A little about me:</h2>
+
+<p align="center">
+  <li align="center">⚡ I’m currently working on <strong><a href="https://getaclub.io">Get A Club</a></strong> and
+    <strong> <a href="https://dellasmartglasses.web.app"> Della</a></strong>'s smart glasses.
+  </li>
+  <li align="center">📙 I’m currently learning <strong>.Net Core</strong>, <strong>CI/CD</strong> and
+    <strong>Angular</strong>.
+  </li>
+  <li align="center">🔍 I’m looking to collaborate on amazing projetcs to <strong>solve real problems</strong>.</li>
+  <li align="center">👱🏼‍♂️ Pronouns: <strong>he/him/his</strong>, although, just tell me <strong>Juan</strong>.</li>
+  <li align="center">😄 Fun fact: <strong>I don't like to sleep</strong>.</li>
+</p>
+
+<br>
 <h2 align="center">Technical skills</h2>
 
 <h3 align="center">Programming Languages</h3>
@@ -160,12 +176,7 @@
   </a>
   <a href="https://www.microsoft.com/en-us/windows/">
     <img alt="windows" width="30px" alt="windows" src="images/windows.png" />
-  </a>
-</p>
-
-<p align="center">🧠 Learning</p>
-<p align="center">
-  <a href="https://github.com/Youngermaster?tab=repositories&q=raspberry&type=&language=">
+  </a> <a href="https://github.com/Youngermaster?tab=repositories&q=raspberry&type=&language=">
     <img alt="raspberry" width="30px" alt="raspberry" src="images/raspberry.png" />
   </a>
 </p>
@@ -187,11 +198,7 @@
   </a>
   <a href="https://discordhub.com/profile/412340197640896513">
     <img
-      src="https://img.shields.io/badge/-Youngermaster7943-gray?style=flat-squarelabel=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2linkhttps://discordhub.com/profile/412340197640896513" />
-  </a>
-  <a href="mailto:juanmanuel12.13jmyh81@gmail.com">
-    <img
-      src="https://img.shields.io/badge/-juanmanuel12.13jmyh81@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juanmanuel12.13jmyh81@gmail.com" />
+      src="https://img.shields.io/badge/-Youngermaster7943-gray?style=flat-square&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2linkhttps://discordhub.com/profile/412340197640896513" />
   </a>
   <a href="https://www.youtube.com/channel/UCyuYHymUH4Adj2YytTdtD4g/videos">
     <img
@@ -200,6 +207,9 @@
   <a href="https://gist.github.com/Youngermaster/d062cf824d5007105aa2ea32d6e988e2">
     <img
       src="https://img.shields.io/badge/-VSCodeSettings-blue?style=flat-square&logo=VisualStudioCode&logoColor=white&https://gist.github.com/Youngermaster/d062cf824d5007105aa2ea32d6e988e2" />
+  </a> <a href="mailto:juanmanuel12.13jmyh81@gmail.com">
+    <img
+      src="https://img.shields.io/badge/-juanmanuel12.13jmyh81@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juanmanuel12.13jmyh81@gmail.com" />
   </a>
 </p>
 
@@ -211,6 +221,7 @@
       src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=youngermaster&show_icons=true&line_height=27"
       alt="Youngermaster's github stats" />
   </a>
+  <br>
   <a href="https://github.com/youngermaster">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youngermaster"
       alt="Youngermaster's github stats" />
@@ -218,26 +229,9 @@
   <br>
   <a href="https://github.com/youngermaster">
     <img align="center" alt="Youngermaster's github language stats "
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngermaster&langs_count=10" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngermaster&langs_count=10&layout=compact" />
   </a>
-  <img align="center" src="images/Languages.png" alt="Juan Manuel Young's Languages">
 </p>
-
-<br>
-<h2 align="center">A little about me:</h2>
-
-<p align="center">
-  <li align="center">⚡ I’m currently working on <strong><a href="https://getaclub.io">Get A Club</a></strong> and
-    <strong> <a href="https://dellasmartglasses.web.app"> Della</a></strong>'s smart glasses.
-  </li>
-  <li align="center">📙 I’m currently learning <strong>.Net Core</strong>, <strong>CI/CD</strong> and
-    <strong>Angular</strong>.
-  </li>
-  <li align="center">🔍 I’m looking to collaborate on amazing projetcs to <strong>solve real problems</strong>.</li>
-  <li align="center">👱🏼‍♂️ Pronouns: <strong>he/him/his</strong>, although, just tell me <strong>Juan</strong>.</li>
-  <li align="center">😄 Fun fact: <strong>I don't like to sleep</strong>.</li>
-</p>
-
 <h2 align="center">👋🏻 See ya'</h2>
 
 <p align="center">
