@@ -195,9 +195,9 @@
     <img
       src="https://img.shields.io/badge/-jmyounghoyos-blue?style=flat-square&logo=Twitter&logoColor=white&linkhttps://www.Twitter.com/in/juan-manuel-young-hoyos-701653157/" />
   </a>
-  <a href="https://discordhub.com/profile/412340197640896513">
+  <a href="https://discord.bio/p/youngermaster">
     <img
-      src="https://img.shields.io/badge/-Youngermaster7943-gray?style=flat-square&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2linkhttps://discordhub.com/profile/412340197640896513" />
+      src="https://img.shields.io/badge/-Youngermaster7943-gray?style=flat-square&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2linkhttps://discord.bio/p/youngermaster" />
   </a>
   <a href="https://www.youtube.com/channel/UCyuYHymUH4Adj2YytTdtD4g/videos">
     <img
