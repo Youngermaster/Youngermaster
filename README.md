@@ -22,8 +22,6 @@
 
 </details>
 
-<br>
-
 <details>
 
   <summary>Programming Languages</summary>
@@ -91,8 +89,6 @@
   </table>
 
 </details>
-
-<br>
 
 <details>
 
@@ -211,8 +207,6 @@
 
 </details>
 
-<br />
-
 <details>
 
   <summary>✉️️ Connect with me</summary>
@@ -248,8 +242,6 @@
 
 </details>
 
-<br>
-
 <details>
 
   <summary>📊 GitHub Stats</summary>
@@ -274,8 +266,6 @@
   </p>
 
 </details>
-
-<br>
 
 <details>
 
