@@ -267,8 +267,7 @@
     </a>
     <br>
     <a href="https://github.com/youngermaster">
-      <img src="https://github-profile-trophy.vercel.app/?username=youngermaster"
-        alt="Youngermaster's github stats" />
+      <img src="https://github-profile-trophy.vercel.app/?username=youngermaster" alt="Youngermaster's github stats" />
     </a>
   </p>
 
