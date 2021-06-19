@@ -2,7 +2,7 @@
   <img width="250px" src="images/circle-cropped-profile.png" />
 <h1 align="center">Juan Manuel Young Hoyos</h1>
 <h2 align="center">A Problem Solver</h2>
-<p>
+<p align="center">
   <img src="images/CodingCat.gif" alt="Coding Cat" width="50px">
   <img src="https://komarev.com/ghpvc/?username=youngermaster&label=Profile views&color=blue&style=plastic"
     alt="youngermaster" />
