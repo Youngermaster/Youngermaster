@@ -12,7 +12,7 @@
 
 <details>
 
-  <summary>👱 A little about me:</summary>
+  <summary>👱🏼‍♂️ A little about me:</summary>
 
   <li>⚡ I’m currently working on <strong><a href="https://getaclub.io">Get A Club</a></strong> and
     <strong> <a href="https://dellasmartglasses.web.app"> Della</a></strong>'s smart glasses.
@@ -20,7 +20,7 @@
   <li>📙 I’m currently learning <strong>.Net Core</strong>, <strong>CI/CD</strong> and
     <strong>Angular</strong>.
   </li>
-  <li>🔍 I’m looking to collaborate on amazing projetcs to <strong>solve real problems</strong>.</li>
+  <li>🔍 I’m looking to collaborate on <strong>amazing projects</strong> to <strong>solve real problems</strong>.</li>
   <li>👱🏼‍♂️ Pronouns: <strong>he/him/his</strong>, although, just tell me <strong>Juan</strong>.</li>
   <li>😄 Fun fact: <strong>I don't like to sleep</strong>.</li>
 
@@ -266,7 +266,10 @@
         alt="Youngermaster's github stats" />
     </a>
     <br>
-    [![trophy](https://github-profile-trophy.vercel.app/?username=youngermaster)](https://github.com/ryo-ma/github-profile-trophy)
+    <a href="https://github.com/youngermaster">
+      <img src="https://github-profile-trophy.vercel.app/?username=youngermaster"
+        alt="Youngermaster's github stats" />
+    </a>
   </p>
 
 </details>
