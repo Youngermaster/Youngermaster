@@ -8,7 +8,7 @@
 
 <details>
 
-  <summary>A little about me:</summary>
+  <summary>👱 A little about me:</summary>
 
   <li>⚡ I’m currently working on <strong><a href="https://getaclub.io">Get A Club</a></strong> and
     <strong> <a href="https://dellasmartglasses.web.app"> Della</a></strong>'s smart glasses.
@@ -24,7 +24,7 @@
 
 <details>
 
-  <summary>Programming Languages</summary>
+  <summary>🌟 Programming Languages</summary>
 
   <table style="width:100%">
     <tr>
@@ -262,7 +262,7 @@
         alt="Youngermaster's github stats" />
     </a>
     <br>
-    [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+    [![trophy](https://github-profile-trophy.vercel.app/?username=youngermaster)](https://github.com/ryo-ma/github-profile-trophy)
   </p>
 
 </details>
