@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250px" src="images/circle-cropped-profile.png" />
+  <img width="250px" src="images/circle-cropped-profile-min.png" />
 <h1 align="center">Juan Manuel Young Hoyos</h1>
 <h2 align="center">A Problem Solver</h2>
 <p align="center">
@@ -23,60 +23,6 @@
   <li>🔍 I’m looking to collaborate on <strong>amazing projects</strong> to <strong>solve real problems</strong>.</li>
   <li>👱🏼‍♂️ Pronouns: <strong>he/him/his</strong>, although, just tell me <strong>Juan</strong>.</li>
   <li>😄 Fun fact: <strong>I don't like to sleep</strong>.</li>
-
-</details>
-
-<details>
-
-  <summary>📊 GitHub Stats</summary>
-
-  <p>
-    <a href="https://github.com/youngermaster">
-      <img alt="Youngermaster's github language stats "
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngermaster&langs_count=10&layout=compact" />
-    </a>
-    <br>
-    <a href="https://github.com/youngermaster">
-      <img
-        src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=youngermaster&show_icons=true&line_height=27"
-        alt="Youngermaster's github stats" />
-    </a>
-    <br>
-    <a href="https://github.com/youngermaster">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=youngermaster"
-        alt="Youngermaster's github stats" />
-    </a>
-    <br>
-    <a href="https://github.com/youngermaster">
-      <img src="https://github-profile-trophy.vercel.app/?username=youngermaster" alt="Youngermaster's github stats" />
-    </a>
-    <br>
-    <a href="https://github.com/youngermaster">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youngermaster&theme=nord_bright"
-        alt="Youngermaster's github stats" />
-    </a>
-    <a href="https://github.com/youngermaster">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youngermaster&theme=nord_bright"
-        alt="Youngermaster's github stats" />
-    </a>
-    <a href="https://github.com/youngermaster">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=youngermaster&theme=nord_bright"
-        alt="Youngermaster's github stats" />
-    </a>
-    <a href="https://github.com/youngermaster">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=youngermaster&theme=nord_bright"
-        alt="Youngermaster's github stats" />
-    </a>
-    <a href="https://github.com/youngermaster">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=youngermaster&theme=nord_bright"
-        alt="Youngermaster's github stats" />
-    </a>
-  </p>
 
 </details>
 
@@ -261,6 +207,60 @@
       src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
     <img alt="Raspberry Pi"
       src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />
+  </p>
+
+</details>
+
+<details>
+
+  <summary>📊 GitHub Stats</summary>
+
+  <p>
+    <a href="https://github.com/youngermaster">
+      <img alt="Youngermaster's github language stats "
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngermaster&langs_count=10&layout=compact" />
+    </a>
+    <br>
+    <a href="https://github.com/youngermaster">
+      <img
+        src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=youngermaster&show_icons=true&line_height=27"
+        alt="Youngermaster's github stats" />
+    </a>
+    <br>
+    <a href="https://github.com/youngermaster">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=youngermaster"
+        alt="Youngermaster's github stats" />
+    </a>
+    <br>
+    <a href="https://github.com/youngermaster">
+      <img src="https://github-profile-trophy.vercel.app/?username=youngermaster" alt="Youngermaster's github stats" />
+    </a>
+    <br>
+    <a href="https://github.com/youngermaster">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youngermaster&theme=nord_bright"
+        alt="Youngermaster's github stats" />
+    </a>
+    <a href="https://github.com/youngermaster">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youngermaster&theme=nord_bright"
+        alt="Youngermaster's github stats" />
+    </a>
+    <a href="https://github.com/youngermaster">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=youngermaster&theme=nord_bright"
+        alt="Youngermaster's github stats" />
+    </a>
+    <a href="https://github.com/youngermaster">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=youngermaster&theme=nord_bright"
+        alt="Youngermaster's github stats" />
+    </a>
+    <a href="https://github.com/youngermaster">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=youngermaster&theme=nord_bright"
+        alt="Youngermaster's github stats" />
+    </a>
   </p>
 
 </details>
