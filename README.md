@@ -14,7 +14,7 @@
 
   <summary>👱🏼‍♂️ A little about me:</summary>
 
-  <li>⚡ I’m currently working on <strong><a href="https://getaclub.io">Get A Club</a></strong> and
+  <li>⚡ I’m currently working on <strong><a href="https://getaclub.io">GETA Club</a></strong> and
     <strong> <a href="https://dellasmartglasses.web.app"> Della</a></strong>'s smart glasses.
   </li>
   <li>📙 I’m currently learning <strong>.Net Core</strong>, <strong>CI/CD</strong> and
