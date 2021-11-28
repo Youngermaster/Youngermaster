@@ -216,7 +216,7 @@
   <summary>⚙️ Analytics </summary>
 
   <p>
-    <p>This metric is loading (If it takes more than 5 seconds, reload the page)...</p>
+    <p>Two metrics are loading (If it takes more than 5 seconds, reload the page)...</p>
     <a href="https://profile.codersrank.io/user/youngermaster">
       <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=youngermaster&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px%22%20width=%22500px">
     </a>
