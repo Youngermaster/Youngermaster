@@ -213,6 +213,22 @@
 
 <details>
 
+  <summary>⚙️ Analytics </summary>
+
+  <p>
+    <p>This metric is loading (If it takes more than 5 seconds, reload the page)...</p>
+    <a href="https://profile.codersrank.io/user/youngermaster">
+      <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=youngermaster&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px%22%20width=%22500px">
+    </a>
+    <a href="https://profile.codersrank.io/user/youngermaster">
+      <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=youngermaster"/>
+    </a>
+  </p>
+
+</details>
+
+<details>
+
   <summary>📊 GitHub Metrics</summary>
   <p>
     <a href="https://github.com/youngermaster">
