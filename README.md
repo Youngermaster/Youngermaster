@@ -14,6 +14,10 @@
 
   <summary>👱🏼‍♂️ A little about me:</summary>
 
+  <a href="https://profile.codersrank.io/user/youngermaster">
+      <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=youngermaster&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px%22%20width=%22500px">
+  </a>
+
   <li>⚡ I’m currently working on <strong><a href="https://getaclub.io">GETA Club</a></strong> and
     <strong> <a href="https://dellasmartglasses.web.app"> Della</a></strong>'s smart glasses.
   </li>
