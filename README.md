@@ -207,6 +207,7 @@
   <summary>⚡ Main OS</summary>
 
   <p>
+    <img alt="Arch Linux" src="https://img.shields.io/badge/Arch-E95420?style=for-the-badge&logo=archlinux&logoColor=white&color=blue" />
     <img alt="Windows 10"
       src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     <img alt="Ubuntu"
