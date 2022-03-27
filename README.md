@@ -10,11 +10,9 @@
 </p>
 <p align="center">
   <a href="https://app.hackthebox.com/profile/643960">
-        <img src="http://www.hackthebox.eu/badge/image/643960" alt="Hack The Box">
+        <img src="http://www.hackthebox.eu/badge/image/643960" height=57 alt="Hack The Box">
   </a>
-</p>
-<p align="center">
-  <a href="https://tryhackme.com/p/Youngermaster">
+   <a href="https://tryhackme.com/p/Youngermaster">
     <img src="https://tryhackme-badges.s3.amazonaws.com/Youngermaster.png" alt="TryHackMe">
   </a>
 </p>
@@ -26,6 +24,9 @@
   </a>
 </p>
 
+```
+Click on the drop down buttons to see more about me!
+```
 
 <details>
 
