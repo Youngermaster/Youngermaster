@@ -25,6 +25,11 @@
 </p>
 
 ```
+Work in progress of HackTheBox blog:
+https://jmyounghoyos.notion.site/HackTheBox-093e9f4304944fe680f184feb7fde9ef
+```
+
+```
 Click on the drop down buttons to see more about me!
 ```
 
