@@ -3,10 +3,8 @@
 <h1 align="center">Juan Manuel Young Hoyos</h1>
 <h2 align="center">A Problem Solver</h2>
 <p align="center">
-  <img src="images/CodingCat.gif" alt="Coding Cat" width="50px">
   <img src="https://komarev.com/ghpvc/?username=youngermaster&label=Profile views&color=blue&style=plastic"
     alt="youngermaster" />
-  <img src="images/PenguinSurprised.gif" alt="PenguinSurprised" width="50px">
 </p>
 <p align="center">
   <a href="https://app.hackthebox.com/profile/643960">
