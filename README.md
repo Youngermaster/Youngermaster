@@ -23,11 +23,6 @@
 </p>
 
 ```
-Work in progress of HackTheBox blog:
-https://jmyounghoyos.notion.site/HackTheBox-093e9f4304944fe680f184feb7fde9ef
-```
-
-```
 Click on the drop down buttons to see more about me!
 ```
 
@@ -36,14 +31,14 @@ Click on the drop down buttons to see more about me!
   <summary>👱🏼‍♂️ A little about me:</summary>
 
   <li>⚡ I’m currently working on <strong><a href="https://getaclub.io">GETA Club</a></strong> and
-    <strong> <a href="https://dellasmartglasses.web.app"> Della</a></strong>'s smart glasses.
+    <strong> <a href="https://dsinno.io"> Design Systems</a></strong>.
   </li>
-  <li>📙 I’m currently learning <strong>.Net Core</strong>, <strong>CI/CD</strong> and
-    <strong>Angular</strong>.
+  <li>📙 I’m currently learning <strong>Rust</strong>, <strong>Cybersecurity</strong> and
+    <strong>IOT</strong>.
   </li>
   <li>🔍 I’m looking to collaborate on <strong>amazing projects</strong> to <strong>solve real problems</strong>.</li>
   <li>👱🏼‍♂️ Pronouns: <strong>he/him/his</strong>, although, just tell me <strong>Juan</strong>.</li>
-  <li>😄 Fun fact: <strong>I don't like to sleep</strong>.</li>
+  <li>😄 Fun fact: <strong>I don't like to sleep</strong>, I do it because unfortunately as a human I have to.</li>
 
 </details>
 
@@ -357,8 +352,13 @@ Click on the drop down buttons to see more about me!
 
   <p>
     <a href="/">
-      <img alt="NotHotDog" alt="raspberry" src="images/NotHotDog.gif" />
+      <img alt="NotHotDog" src="images/NotHotDog.gif" />
     </a>
   </p>
 
 </details>
+
+```
+Work in progress of HackTheBox blog:
+https://jmyounghoyos.notion.site/HackTheBox-093e9f4304944fe680f184feb7fde9ef
+```
