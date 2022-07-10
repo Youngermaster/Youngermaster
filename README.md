@@ -359,6 +359,6 @@ Click on the drop down buttons to see more about me!
 </details>
 
 ```
-Work in progress of HackTheBox blog:
-https://jmyounghoyos.notion.site/HackTheBox-093e9f4304944fe680f184feb7fde9ef
+My Blog:
+https://blog.jmyounghoyos.com/
 ```
