@@ -7,15 +7,22 @@
     alt="youngermaster" />
 </p>
 <p align="center">
-  <a href="https://app.hackthebox.com/profile/1146422">
-        <img src="http://www.hackthebox.eu/badge/image/1146422" height=57 alt="Hack The Box Lyyyyynx">
-  </a>
-  <a href="https://app.hackthebox.com/profile/643960">
-        <img src="http://www.hackthebox.eu/badge/image/643960" height=57 alt="Hack The Box Youngermaster">
-  </a>
-   <a href="https://tryhackme.com/p/Youngermaster">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Youngermaster.png" alt="TryHackMe Youngermaster">
-  </a>
+  <p align="center">
+    <a href="https://app.hackthebox.com/profile/1146422">
+          <img src="http://www.hackthebox.eu/badge/image/1146422" height=57 alt="Hack The Box Lyyyyynx">
+    </a>
+    <a href="https://tryhackme.com/p/Lyyyyynx">
+      <img src="https://tryhackme-badges.s3.amazonaws.com/Lyyyyynx.png" alt="TryHackMe Lyyyyynx">
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://app.hackthebox.com/profile/643960">
+          <img src="http://www.hackthebox.eu/badge/image/643960" height=57 alt="Hack The Box Youngermaster">
+    </a>
+     <a href="https://tryhackme.com/p/Youngermaster">
+      <img src="https://tryhackme-badges.s3.amazonaws.com/Youngermaster.png" alt="TryHackMe Youngermaster">
+    </a>
+  </p>
 </p>
 
 <p align="center">
