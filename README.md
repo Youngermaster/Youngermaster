@@ -93,7 +93,7 @@
 
 <p>
   <a href="https://profile.codersrank.io/user/youngermaster">
-      <img src="images/CodersRankMetrics.png">
+      <img src="images/codersrank-metrics.png">
   </a>
   <a href="https://github.com/youngermaster">
     <img
