@@ -101,13 +101,13 @@
       alt="Youngermaster's github stats" />
   </a>
   <a href="https://github.com/youngermaster">
+    <img alt="Youngermaster's github language stats"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngermaster&langs_count=10&layout=compact" />
+  </a>
+  <a href="https://github.com/youngermaster">
     <img
       src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=youngermaster&show_icons=true&line_height=27"
       alt="Youngermaster's github stats" />
-  </a>
-  <a href="https://github.com/youngermaster">
-    <img alt="Youngermaster's github language stats"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngermaster&langs_count=10&layout=compact" />
   </a>
   <a href="https://github.com/youngermaster">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=youngermaster"
@@ -149,6 +149,18 @@
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+<details>
+
+  <summary>🎁 <strong> [Bonus about what I belive] </strong> 🎁</summary>
+
+  <p>
+    <a href="https://youtu.be/XzjtV8ZFvQw?t=1246">
+      <img alt="NotHotDog" src="images/" />
+    </a>
+  </p>
+
+</details>
 
 ```
 My Blog:
