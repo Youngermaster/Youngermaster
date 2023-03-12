@@ -103,7 +103,7 @@
 
 <details>
 
-  <summary>🎁 <strong> More stats </strong> 🎁</summary>
+  <summary>📈 <strong> More stats </strong> 📈</summary>
 
   <p>
     <a href="https://github.com/youngermaster">
