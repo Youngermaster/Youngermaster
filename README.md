@@ -20,33 +20,49 @@
 
 <h2>🌟 Programming Languages</h2>
 <p>
-  <img alt="Go"
-    src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
-  <img alt="Rust"
-      src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white" />
   <img alt="Python"
-  src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
+  src="https://img.shields.io/badge/python%20-%23346e9f.svg?&style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Javascript"
   src="https://img.shields.io/badge/javascript-%23f1c232.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
+  <img alt="Rust"
+      src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white" />
+  <img alt="Go"
+    src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
 </p>
 
 <h2>⚡ Main Technologies<h2>
 <p>
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img alt="Flutter"
-  src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
-  <img alt="OpenCV"
-    src="https://img.shields.io/badge/opencv%20-%23white.svg?&style=for-the-badge&logo=opencv&logoColor=white" />
-  <img alt="Visual Studio Code"
-    src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img alt="React Native"
+  src="https://img.shields.io/badge/React_Native-FFF?style=for-the-badge&logo=react&logoColor=3880FF" />
+  <img alt="Fast API"
+  src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" />
   <img alt="AWS"
     src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img alt="Vim"
-    src="https://img.shields.io/badge/VIM%20-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
-  <img alt="Git"
-    src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Docker"
     src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="MongoDB"
+    src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="PostgreSQL"
+    src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Redis"
+    src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" />
+  <img alt="Jupyter"
+    src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+  <img alt="Visual Studio Code"
+    src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img alt="NeoVim"
+    src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
+  <img alt="Apache Kafka"
+    src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img alt="Git"
+    src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="GraphQl"
+    src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img alt="Expo"
+    src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
+  <img alt="Gpdot"
+    src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white" />
   <img alt="Arduino"
     src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
   <img alt="Figma"
@@ -55,6 +71,12 @@
     src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white" />
   <img alt="Shell Script"
     src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img alt="Tailwind"
+    src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img alt="OpenCV"
+    src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+  <img alt="Flutter"
+    src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
 </p>
 
 <h2>⚡ Operating Systems and distros I use</h2>
@@ -62,6 +84,9 @@
 > Yup, *I use Arch btw* :P
 
 <p>
+  <img alt="Pop OS"
+    src="https://img.shields.io/badge/PopOs-49B3BF?style=for-the-badge&logo=popos&logoColor=white"/>
+  </a>
   <a href="https://github.com/Youngermaster/Arch-dotfiles">
   <img alt="Arch Linux" src="https://img.shields.io/badge/Arch-E95420?style=for-the-badge&logo=archlinux&logoColor=white&color=blue" />
   </a>
@@ -70,9 +95,6 @@
     src="https://img.shields.io/badge/Fedora-0078D6?style=for-the-badge&logo=fedora&logoColor=white"/>
   </a>
   <a href="https://github.com/Youngermaster/Ubuntu-dotfiles">
-  <img alt="Pop OS"
-    src="https://img.shields.io/badge/PopOs-49B3BF?style=for-the-badge&logo=popos&logoColor=white"/>
-  </a>
   <a href="https://github.com/Youngermaster/Hacking-Startup">
   <img alt="Kali Linux"
     src="https://img.shields.io/badge/Kali-FFFFFF?style=for-the-badge&logo=kalilinux&logoColor=white&color=purple"/>
@@ -84,6 +106,10 @@
 </p>
 
 <h2>📊 Pentesting stats</h2>
+<a href="https://app.hackthebox.com/profile/643960">
+  <img alt="HackTheBox"
+      src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" />
+</a>
 <div>
   <a href="https://app.hackthebox.com/profile/1146422">
             <img src="http://www.hackthebox.eu/badge/image/1146422" height=57 alt="Hack The Box Lyyyyynx">
@@ -118,6 +144,13 @@
 <details>
 
   <summary>📈 <strong> More stats </strong> 📈</summary>
+
+![profile-details](profile-summary-card-output/nord_dark/0-profile-details.svg)
+![stats](profile-summary-card-output/nord_dark/1-repos-per-language.svg)
+![most-commit-language](profile-summary-card-output/nord_dark/2-most-commit-language.svg)
+![stats](profile-summary-card-output/nord_dark/3-stats.svg)
+![productive-time](profile-summary-card-output/nord_dark/4-productive-time.svg)
+<img width="625em" src="./github-metrics.svg" />
 
   <p>
     <a href="https://github.com/youngermaster">
@@ -179,17 +212,15 @@
 
 <details>
 
-  <summary>🎁 <strong> [Bonus about what I belive] </strong> 🎁</summary>
+  <summary>🎁 <strong> [CLICK for a Bonus about what I belive] </strong> 🎁</summary>
 
   <p>
+  <strong>
+  “There is a driving force stronger than steam, electricity and atomic energy: THE WILLPOWER.” - Albert Einstein
+  <strong>
     <a href="https://youtu.be/XzjtV8ZFvQw?t=1246">
-      <img alt="NotHotDog" src="images/" />
+      <img alt="NotHotDog" src="images/op_1068_dream_007.png" />
     </a>
   </p>
 
 </details>
-
-```
-My Blog:
-https://blog.jmyounghoyos.com/
-```
