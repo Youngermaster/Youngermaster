@@ -180,11 +180,13 @@
 
 <details>
 
-  <summary>🎁 <strong> [CLICK for a Bonus about what I believe] </strong> 🎁</summary>
+  <summary>🎁 <strong> [CLICK HERE] for a Bonus about what I believe </strong> 🎁</summary>
 
   <p>
   <strong>
+  <h3>
   “There is a driving force stronger than steam, electricity and atomic energy: THE WILLPOWER.” - Albert Einstein
+  </h3>
   <strong>
     <a href="https://youtu.be/XzjtV8ZFvQw?t=1246">
       <img alt="NotHotDog" src="images/op_1068_dream_007.png" />
