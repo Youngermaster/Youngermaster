@@ -212,7 +212,7 @@
 
 <details>
 
-  <summary>🎁 <strong> [CLICK for a Bonus about what I belive] </strong> 🎁</summary>
+  <summary>🎁 <strong> [CLICK for a Bonus about what I believe] </strong> 🎁</summary>
 
   <p>
   <strong>

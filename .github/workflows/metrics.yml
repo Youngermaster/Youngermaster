@@ -21,7 +21,7 @@ jobs:
           #  - read:org  (for organization related metrics)
           #  - read:user (for user related data)
           #  - repo      (optional, if you want to include private repositories)
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
           user: Youngermaster
