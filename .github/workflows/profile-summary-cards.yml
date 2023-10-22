@@ -3,7 +3,7 @@ name: Profile Summary Cards
 on:
   workflow_dispatch:
   schedule:
-    - cron: "45 */32 * * *"
+    - cron: "42 */32 * * *"
 
 jobs:
   build:
