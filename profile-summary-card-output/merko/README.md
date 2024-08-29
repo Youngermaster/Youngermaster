@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Youngermaster/Youngermaster/master/profile-summary-card-output/merko/4-productive-time.svg)
+```
+
+    
