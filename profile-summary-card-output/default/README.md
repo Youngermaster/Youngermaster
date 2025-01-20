@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Youngermaster/Youngermaster/master/profile-summary-card-output/default/4-productive-time.svg)
+```
+
+    
